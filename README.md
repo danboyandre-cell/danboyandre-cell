@@ -3,6 +3,7 @@
 🚀 **Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera Educacional, com previsão de conclusão no primeiro semestre de 2027.
 
 💻 Tenho interesse em Desenvolvimento de Sistemas e Desenvolvimento Web. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades por meio de estudos e projetos práticos.**  
+<span>&#x1f1e7;&#x1f1f7;</span>
  Brasil
 
 
